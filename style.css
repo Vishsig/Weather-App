@@ -133,11 +133,11 @@ background-color: #ffcb00;
 
 .details{
     display: flex;
+    flex-wrap: nowrap;
     align-items: center;
     justify-content: space-between;
-    
     margin-top: 50px;
-    gap: 10vh;
+    gap: 7vh;
 }
 
 .col{
