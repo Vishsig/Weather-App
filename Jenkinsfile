@@ -16,6 +16,7 @@ pipeline {
                 // Run your tests here
                 // Example: sh 'npm test'
                 echo 'Running tests...'
+                echo 'Tests finished...'
             }
         }
 
