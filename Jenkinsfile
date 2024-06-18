@@ -6,6 +6,7 @@ pipeline {
             steps {
                 // Get the code from the repository
                 checkout scm
+                echo 'Checking out the code from repository'
             }
         }
 
